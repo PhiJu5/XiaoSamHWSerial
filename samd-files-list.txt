@@ -1,0 +1,19 @@
+Changed files:
+
+C:\Users\pju38\AppData\Local\Arduino15\packages\arduino\hardware\samd\1.8.13\cores\arduino\
+
+Uart.h
+Uart.cpp
+SERCOM.h
+SERCOM.cpp
+SaveRingBuffer.h
+RingBuffer.h
+api/RingBuffer.h
+api/HardwareSerial.h
+USB/USBAPI.h
+USB/CDC.cpp
+
+
+ArduinoCore-samd
+
+https://github.com/arduino/ArduinoCore-API
